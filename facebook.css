@@ -1,0 +1,162 @@
+body{
+    background-color: #EEF1F6;
+}
+/*login starts*/
+.heading{
+    background-color: #3C5A98;
+    color: white;
+    margin-top: -10px;
+    margin-left: -9px;
+    margin-right: -72px;
+    width: 1261px;
+    padding: 20px 0px 10px 20px;
+    font-size: 40px;
+    font-family: arial,helvetica,sans-serif;
+}
+.password{
+    float: right;
+    font-size: 80%;
+    margin-top: -20px;
+    padding: 4%;
+    margin-right: 50px;
+    font-family: arial,helvetica,sans-serif;
+}
+.pass{
+    margin-top: -138px;
+    color: white;
+    margin-bottom: 5px;
+    font-size: 85%;
+}
+.email{
+    float: right;
+    font-size: 70%;
+    margin-top: -168px;
+    margin-right: -80px;
+    padding: 4%;
+    font-family: arial,helvetica,sans-serif;
+}
+.em{
+    margin-bottom: 3px;
+    color: white;
+}
+.login{
+    float: right;
+    margin-top: -83px;
+    margin-right: 35px;
+    background-color: #4267b2;
+    color: white;
+    border: none;
+}
+.forgot{
+    float: right;
+    margin-top: -65px;
+    margin-right: -139px;
+    font-size: smaller;
+    color: #9cb4d8;
+}
+/*Sign up css starts from here*/
+/*Right portion of the page*/
+.moto{
+    margin-top: -21px;
+    font-size: larger;
+    font-family: arial,helvetica,sans-serif;
+}
+.signup{
+    width: 45%;
+    position: absolute;
+    left: 54%;
+    margin-top: -50px;
+    padding-left: 10px;
+}
+.form{
+    padding: 8px 10px 10px 10px;
+    border-radius: 5px;
+    border: 1px solid #E2E3E6;
+    font-size: 18px;
+}
+#first_name{
+    margin: 0px 10px 10px 0px;
+}
+#email{
+    padding-right: 300px;
+}
+#last_name{
+    padding-right: 37px;
+}
+#pass{
+    padding-right: 300px;
+    margin-top: 10px;
+}
+.dates{
+    font-size: 15px;
+    border: 1px solid #E2E3E6;
+    height: 30px;
+    width: 60px;
+    margin-bottom: 20px;
+}
+.bday{
+    margin-bottom: -10px;
+    font-size: 20px;
+    font-family: arial,helvetica,sans-serif;
+}
+#bday_info{
+    margin-right: 160px;
+    margin-top: -39px;
+    color: #4267b2;
+}
+.male, .female{
+    font-size: 20px;
+    font-family: arial,helvetica,sans-serif;
+}
+.m{
+    margin-left: 20px;
+}
+.button2{
+    background-color: #67A256;
+    border: none;
+    color: white;
+    width: 200px;
+    height: 45px;
+    border-radius: 5px;
+    font-size: x-large;
+    font-family: arial,helvetica,sans-serif;
+}
+.terms{
+    color: #4267b2;
+}
+.conditions{
+    font-size: 13px;
+}
+/*Left portion of the page*/
+h1{
+    font-family: arial,helvetica,sans-serif;
+    color: #2C2D31;
+}
+.moto2{
+    font-family: arial,helvetica,sans-serif;
+    margin-left: 20px;
+}
+.line1, .line2, .line3 {
+    margin-top: -34px;
+    font-family: arial,helvetica,sans-serif;
+}
+.line1{
+    margin-left: 330px;
+}
+.line2{
+    margin-left: 270px;
+}
+.line3{
+    margin-left: 210px;
+}
+#pic1 , #pic2, #pic3{
+    width: 4%;
+    margin-bottom: -45px;
+    margin-left: 30px;
+}
+.heading2{
+    margin-left: 100px;
+    margin-top: 10px;
+    font-size: large;
+    font-family: arial,helvetica,sans-serif;
+}
